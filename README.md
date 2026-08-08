@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nihalodedra/leetcode/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nihalodedra/leetcode/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nihalodedra/leetcode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
