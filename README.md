@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 <!---LeetCode Topics End-->
