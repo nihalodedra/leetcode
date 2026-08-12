@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nihalodedra/leetcode/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nihalodedra/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
