@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nihalodedra/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/nihalodedra/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nihalodedra/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
