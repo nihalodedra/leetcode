@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/nihalodedra/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/nihalodedra/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0164-maximum-gap](https://github.com/nihalodedra/leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/nihalodedra/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 ## Greedy
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/nihalodedra/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/nihalodedra/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
