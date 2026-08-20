@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0682-baseball-game](https://github.com/nihalodedra/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/nihalodedra/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nihalodedra/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nihalodedra/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Sorting
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/nihalodedra/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/nihalodedra/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/nihalodedra/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nihalodedra/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/nihalodedra/leetcode/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/nihalodedra/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
