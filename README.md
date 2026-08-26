@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nihalodedra/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/nihalodedra/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nihalodedra/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nihalodedra/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nihalodedra/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nihalodedra/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
