@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nihalodedra/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/nihalodedra/leetcode/tree/main/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/nihalodedra/leetcode/tree/main/0136-single-number/) | Easy |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/nihalodedra/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/nihalodedra/leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/nihalodedra/leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nihalodedra/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
