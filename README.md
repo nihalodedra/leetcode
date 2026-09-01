@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/nihalodedra/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nihalodedra/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/nihalodedra/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/nihalodedra/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/nihalodedra/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/nihalodedra/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nihalodedra/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/nihalodedra/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nihalodedra/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/nihalodedra/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
