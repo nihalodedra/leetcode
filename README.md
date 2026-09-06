@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nihalodedra/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/nihalodedra/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0115-distinct-subsequences](https://github.com/nihalodedra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0344-reverse-string](https://github.com/nihalodedra/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nihalodedra/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/nihalodedra/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/nihalodedra/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/nihalodedra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
