@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nihalodedra/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/nihalodedra/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nihalodedra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nihalodedra/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
