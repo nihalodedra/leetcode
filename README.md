@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nihalodedra/leetcode/tree/main/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalodedra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/nihalodedra/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/nihalodedra/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/nihalodedra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalodedra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
