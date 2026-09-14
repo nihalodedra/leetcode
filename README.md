@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/nihalodedra/leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0836-rectangle-overlap](https://github.com/nihalodedra/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nihalodedra/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/nihalodedra/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/nihalodedra/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
