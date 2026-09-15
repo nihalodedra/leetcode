@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/nihalodedra/leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nihalodedra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nihalodedra/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nihalodedra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nihalodedra/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nihalodedra/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nihalodedra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/nihalodedra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalodedra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nihalodedra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
