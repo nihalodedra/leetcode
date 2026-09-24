@@ -1,5 +1,5 @@
-class Solution:
-    def smallestIndex(self, nums: List[int]) -> int:
+class Solution(object):
+    def smallestIndex(self, nums):
         for i in range (len(nums)):
             summ = 0
             while nums[i]>0:
@@ -8,4 +8,3 @@ class Solution:
             if summ==i:
                 return i
         return -1
-        
