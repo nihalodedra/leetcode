@@ -180,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nihalodedra/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/nihalodedra/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nihalodedra/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nihalodedra/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nihalodedra/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Trie
