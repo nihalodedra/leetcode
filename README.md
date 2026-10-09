@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nihalodedra/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihalodedra/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nihalodedra/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihalodedra/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nihalodedra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihalodedra/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
