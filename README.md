@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihalodedra/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nihalodedra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nihalodedra/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/nihalodedra/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nihalodedra/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nihalodedra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
