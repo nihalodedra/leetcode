@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nihalodedra/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nihalodedra/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihalodedra/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihalodedra/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nihalodedra/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -359,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/nihalodedra/leetcode/tree/main/0258-add-digits/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nihalodedra/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nihalodedra/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
