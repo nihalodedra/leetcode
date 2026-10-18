@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/nihalodedra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bucket Sort
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/nihalodedra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihalodedra/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nihalodedra/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nihalodedra/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/nihalodedra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nihalodedra/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0115-distinct-subsequences](https://github.com/nihalodedra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0344-reverse-string](https://github.com/nihalodedra/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/nihalodedra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nihalodedra/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
