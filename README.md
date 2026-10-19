@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nihalodedra/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihalodedra/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nihalodedra/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nihalodedra/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nihalodedra/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nihalodedra/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/nihalodedra/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/nihalodedra/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nihalodedra/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nihalodedra/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nihalodedra/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bucket Sort
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nihalodedra/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nihalodedra/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihalodedra/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nihalodedra/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
