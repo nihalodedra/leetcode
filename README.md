@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/nihalodedra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/nihalodedra/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nihalodedra/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/nihalodedra/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/nihalodedra/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/nihalodedra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nihalodedra/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/nihalodedra/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nihalodedra/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nihalodedra/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/nihalodedra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
