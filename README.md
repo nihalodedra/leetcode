@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nihalodedra/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nihalodedra/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/nihalodedra/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/nihalodedra/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nihalodedra/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/nihalodedra/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0836-rectangle-overlap](https://github.com/nihalodedra/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nihalodedra/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nihalodedra/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/nihalodedra/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/nihalodedra/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihalodedra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
