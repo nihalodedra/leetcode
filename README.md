@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nihalodedra/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/nihalodedra/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/nihalodedra/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/nihalodedra/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalodedra/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/nihalodedra/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/nihalodedra/leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nihalodedra/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/nihalodedra/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/nihalodedra/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/nihalodedra/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nihalodedra/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0067-add-binary](https://github.com/nihalodedra/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/nihalodedra/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0115-distinct-subsequences](https://github.com/nihalodedra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/nihalodedra/leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nihalodedra/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/nihalodedra/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/nihalodedra/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nihalodedra/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
